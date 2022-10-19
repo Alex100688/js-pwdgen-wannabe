@@ -10,3 +10,5 @@ console.log (favoriteColor);
 //Inserisci le variabili più il #76//
 const classAccount= `${firstName} ${lastName} ${favoriteColor} 76`
 console.log (classAccount);
+//Stampa sul foglio html del browser//
+document.getElementById("class-account").innerHTML=classAccount;
