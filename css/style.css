@@ -7,3 +7,10 @@ body{
     color: rgb(255, 0, 0);
 }
 /* Titolo pagina */
+#class-account{
+    transition: background 2s linear;
+}
+
+#class-account:hover{
+    background-color: aquamarine;
+}
