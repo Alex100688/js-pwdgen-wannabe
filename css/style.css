@@ -6,7 +6,9 @@ body{
     font-weight:900;
     color: rgb(255, 0, 0);
 }
-/* Titolo pagina */
+/*/ Titolo pagina */
+
+/* Background al id "class-account" */
 #class-account{
     transition: background 2s linear;
 }
@@ -14,3 +16,4 @@ body{
 #class-account:hover{
     background-color: aquamarine;
 }
+/*/ Background al id "class-account" */
